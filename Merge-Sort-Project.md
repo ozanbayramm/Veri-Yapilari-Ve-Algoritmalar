@@ -7,7 +7,7 @@
 > # - Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 > ![Patika.dev](/images/Merge-sort-part1.png)
 > ## Burada bir listeyi her adımda parçaya ayırıp tek eleman kalıncaya kadar bölüyor.
-> ![Patika.dev](/images/Merge-sort-part2.png)
+> ![Patika.dev](/images/merge-sort-part2.png)
 > ## Böldükten sonra sıralı bir şekilde bize sunuyor. Son hali bu şekilde gözüküyor.
 
 > - # Big-O gösterimini yazınız.
